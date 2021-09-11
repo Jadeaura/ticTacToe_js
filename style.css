@@ -1,0 +1,9 @@
+.boardSquare {
+	background-color: gray;
+	width: 30%;
+	height: 150px;
+	display: inline-block;
+	margin: 10px;
+	font-size: 10em;
+	text-align: center;
+}
